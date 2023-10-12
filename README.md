@@ -6,12 +6,12 @@
 
 ## Implementación del CRUD
 - READ
-![](/src/main/resources/img/read.png)
-![](/src/main/resources/img/readconDbeaver.png)
+![](/src/main/resources/img/Read.png)
+![](/src/main/resources/img/ReadconDbeaver.png)
 - CREATE
-![](/src/main/resources/img/create.png)
+![](/src/main/resources/img/Create.png)
 - UPDATE
-![](/src/main/resources/img/update1.png)
+![](/src/main/resources/img/Update1.png)
 ![](/src/main/resources/img/update2.png)
 - DELETE
 ![](/src/main/resources/img/delete1.png)
